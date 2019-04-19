@@ -86,4 +86,4 @@ The task is episodic, and in order to solve the environment, the agent must get 
 	scores = dqn()
 	```
 	
-	- Cell for plotting the `average scores per 100 episodes` against the `Episode #`"# navigation" 
+	- Cell for plotting the `average scores per 100 episodes` against the `Episode #`
